@@ -1,4 +1,4 @@
-1)	Arduino code at receiver(To arduino nano)
+1)Arduino code at receiver(To arduino nano)
 
 #include <SPI.h>
 #include <LoRa.h>
