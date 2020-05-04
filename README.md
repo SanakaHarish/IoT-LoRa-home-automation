@@ -1,4 +1,4 @@
-# IoT-LoRa-home-automation-
+# IoT-LoRa-home-automation
 Automated home appliances switching using LoRa technology
 
 PROJECT DESCRIPTION: This project aims to switch appliances in home like lamp, fridge, geyser, fan etc., from anywhere else on this Earth like work place, market etc., using a smartphone application connected to internet.
