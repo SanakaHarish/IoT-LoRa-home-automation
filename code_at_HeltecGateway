@@ -1,4 +1,4 @@
-//2)Arduino code at Transmitter(To Heltec LoRa V2 Gateway)
+// 1)Arduino code at Transmitter(To Heltec LoRa V2 Gateway)
 
 #include <WIFI.h>
 #include< FirebaseESP32.h>
